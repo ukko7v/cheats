@@ -1,0 +1,4 @@
+﻿  loop.cpp
+C:\Users\axeld\Desktop\visual studio projects\aimbot2\loop.cpp(126,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\axeld\Desktop\visual studio projects\aimbot2\loop.cpp(127,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  aimbot2.vcxproj -> C:\Users\axeld\Desktop\visual studio projects\aimbot2\Debug\aimbot2.dll
