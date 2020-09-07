@@ -1,0 +1,2 @@
+C:\Users\axeld\Desktop\visual studio projects\triggerbot\Debug\triggerbot.dll
+C:\Users\axeld\Desktop\visual studio projects\triggerbot\Debug\triggerbot.pdb

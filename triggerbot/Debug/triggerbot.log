@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\axeld\Desktop\visual studio projects\triggerbot\dllmain.cpp(55,32): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\axeld\Desktop\visual studio projects\triggerbot\dllmain.cpp(19,9): warning C4101: 'recoilReset': unreferenced local variable
+  triggerbot.vcxproj -> C:\Users\axeld\Desktop\visual studio projects\triggerbot\Debug\triggerbot.dll
