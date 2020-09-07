@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(7,5): error C2065: 'FILE': undeclared identifier
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(7,11): error C2065: 'f': undeclared identifier
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(8,16): error C2065: 'f': undeclared identifier
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(8,35): error C2065: 'stdout': undeclared identifier
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(8,5): error C3861: 'freopen_s': identifier not found
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(11,9): error C3861: 'sleep': identifier not found
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(14,9): error C2065: 'f': undeclared identifier
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(14,19): error C2065: 'f': undeclared identifier
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(14,12): error C3861: 'fclose': identifier not found
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(31,5): error C2360: initialization of 'hdl' is skipped by 'case' label
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(28): message : see declaration of 'hdl'
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(32,5): error C2360: initialization of 'hdl' is skipped by 'case' label
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(28): message : see declaration of 'hdl'
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(33,5): error C2360: initialization of 'hdl' is skipped by 'case' label
+C:\Users\axeld\Desktop\visual studio projects\CSGOTraceLine\dllmain.cpp(28): message : see declaration of 'hdl'
