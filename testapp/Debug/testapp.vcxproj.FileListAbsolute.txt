@@ -1,0 +1,2 @@
+C:\Users\axeld\Desktop\visual studio projects\testapp\Debug\testapp.exe
+C:\Users\axeld\Desktop\visual studio projects\testapp\Debug\testapp.pdb
