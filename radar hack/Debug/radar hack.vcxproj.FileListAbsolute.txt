@@ -1,0 +1,2 @@
+C:\Users\axeld\Desktop\visual studio projects\radar hack\Debug\radar hack.dll
+C:\Users\axeld\Desktop\visual studio projects\radar hack\Debug\radar hack.pdb
